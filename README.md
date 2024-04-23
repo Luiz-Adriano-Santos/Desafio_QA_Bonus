@@ -1,2 +1,2 @@
 # Desafio_QA_Bonus
-Código para teste automático para bonus no desafio QA
+Código para teste automátizado do site!
