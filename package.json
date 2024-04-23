@@ -1,0 +1,15 @@
+{
+  "name": "desafio_qa_bonus",
+  "version": "1.0.0",
+  "description": "Código para teste automático para bonus no desafio QA",
+  "main": "TesteQA_Bonus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luiz Adriano",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.8.0"
+  }
+}
